@@ -1,0 +1,77 @@
+{
+  "personal_info": {
+    "name": "KEVIN ROUX",
+    "title": "Cybersecurity, System & Network Engineer",
+    "phone": "+33 7 81 81 44 41",
+    "email": "kevin.roux.69.bbox@gmail.com",
+    "address": "6 bis rue Simon Buisson 69410 Champagne Au Mont D'or, FRANCE",
+    "linkedin": "linkedin.com/in/kévin-roux-49284821a",
+    "driver_license": "Driver's license AM/B1/B"
+  },
+  "certifications": [
+    {"name": "ANSSI", "details": ["MOOC"]},
+    {"name": "FORTINET", "details": ["Fortinet Certified Fundamentals Cybersecurity"]},
+    {"name": "CISCO", "details": ["Cybersecurity Essentials", "Introduction to Cybersecurity", "CCNA Introduction to Networks", "CCNA Switching, Routing, and Wireless Essentials"]},
+    {"name": "HP-ARUBA", "details": ["Security Essentials", "Networking Essentials", "Mobility Essentials"]}
+  ],
+  "skills": {
+    "cybersecurity": ["Nessus", "Nmap", "Metasploit", "Aircrack-ng", "Hashcat", "Responder", "Scripting", "Volatility"],
+    "security": ["Fortinet", "Stormshield", "WatchGuard", "Pfsense", "Opensense"],
+    "network": ["Cisco", "HP-Aruba", "3Com", "Alcatel", "Huawei"],
+    "system": ["VMWare", "VirtualBox", "Linux", "Windows", "Windows Server", "Active Directory", "Docker", "Centreon", "EyesOfNetwork", "WhatsUp Gold", "Exchange", "Mailcow"],
+    "programming_languages": ["C", "C++", "C arduino", "assembly", "Python", "MySQL", "SQL", "Java", "C#", "JavaScript", "PHP"]
+  },
+  "languages": [
+    {"language": "French", "level": "Native"},
+    {"language": "English", "level": "B2 (TOEIC 830)"},
+    {"language": "Spanish", "level": "A2"}
+  ],
+  "hobbies": {
+    "sport": ["swimming", "skiing", "cycling"],
+    "travel": ["Morocco", "Kenya", "United States", "Peru", "Egypt", "India and many countries in Europe"]
+  },
+  "professional_experience": [
+    {
+      "title": "APPRENTICE NETWORKS AND SECURITY ENGINEER",
+      "company": "Axians",
+      "years": "2022-2025",
+      "location": "Venissieux (France)",
+      "details": ["Fortinet, Cisco, HP-Aruba, 3Com, Alcatel, Huawei.", "Security, LAN and wireless.", "Audit, staging and study of infrastructures.", "Intervention of IT equipment at the customer's premises.", "Carrying out on-call duties"]
+    },
+    {
+      "title": "WEB DEVELOPMENT AND DATA ANALYSIS INTERN",
+      "company": "Data4You z.s",
+      "years": "2024",
+      "location": "Prague (Czech Republic)",
+      "details": ["HTML, CSS, SCSS, JS, Node.js, Ajax, React, Laravel, Docker", "Code audit", "Participation in the development of Naxos (naxos.cz) an auction website (Test automation with Laravel), in the development of Dolbite (dolbite.com) a learning website (Data visualization, admin view)", "Creation of a certificate generator"]
+    },
+    {
+      "title": "RESEARCH INTERNSHIP",
+      "company": "Saint-Étienne School of Mines",
+      "years": "2024",
+      "location": "Saint-Etienne (France)",
+      "details": ["LIMOS UMR CNRS 6158 - FAYOL Institute - Computer science and intelligent systems", "ANR ACCELER-AI project:", "Documentary research on multi-agent systems", "Developed traveler behavior for multi-modal simulator in Java"]
+    },
+    {
+      "title": "IT TECHNICIAN INTERNSHIP",
+      "company": "Town hall of Dardilly",
+      "years": "2022",
+      "location": "Dardilly (France)",
+      "details": ["Cybersecurity: WatchGuard (firewall management, EDR), phishing campaign.", "Network: network troubleshooting, TLS, FTP server, VLAN, EyesOfNetwork", "System: Active Directory, Exchange, Veeam, VMware."]
+    }
+  ],
+  "education": [
+    {
+      "school": "CESI GRADUATE SCHOOL OF ENGINEERING",
+      "degree": "IT specialty, Systems & Networks elective, Cybersecurity option",
+      "years": "2020-2025",
+      "highlights": ["Winning team of the Cesiak2025 CTF"]
+    },
+    {
+      "school": "CHEVREUL LESTONNAC HIGH SCHOOL",
+      "degree": "Scientific Baccalaureate with honors, Mathematics specialization",
+      "years": "2017-2020",
+      "highlights": []
+    }
+  ]
+}

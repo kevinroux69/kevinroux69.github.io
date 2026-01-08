@@ -1,0 +1,28 @@
+{
+  "name": "kevinroux69.github.io",
+  "version": "1.0.0",
+  "description": "Kevin Roux portfolio website showcasing CV and projects in both French and English.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.90",
+    "@types/react-dom": "^17.0.26",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^1.0.0",
+    "typescript": "^4.4.3",
+    "vite": "^2.5.0"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Kevin Roux"
+}

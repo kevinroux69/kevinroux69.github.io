@@ -1,0 +1,77 @@
+{
+  "personal_info": {
+    "name": "KEVIN ROUX",
+    "title": "Ingénieur Cybersécurité, Systèmes et Réseaux",
+    "phone": "+33 7 81 81 44 41",
+    "email": "kevin.roux.69.bbox@gmail.com",
+    "address": "6 bis rue Simon Buisson 69410 Champagne Au Mont D'or, FRANCE",
+    "linkedin": "linkedin.com/in/kévin-roux-49284821a",
+    "driver_license": "Permis de conduire AM/B1/B"
+  },
+  "certifications": [
+    {"name": "ANSSI", "details": ["MOOC"]},
+    {"name": "FORTINET", "details": ["Fortinet Certified Fundamentals Cybersecurity"]},
+    {"name": "CISCO", "details": ["Cybersecurity Essentials", "Introduction to Cybersecurity", "CCNA Introduction to Networks", "CCNA Switching, Routing, and Wireless Essentials"]},
+    {"name": "HP-ARUBA", "details": ["Security Essentials", "Networking Essentials", "Mobility Essentials"]}
+  ],
+  "skills": {
+    "cybersecurity": ["Nessus", "Nmap", "Metasploit", "Aircrack-ng", "Hashcat", "Responder", "Scripting", "Volatility"],
+    "security": ["Fortinet", "Stormshield", "WatchGuard", "Pfsense", "Opensense"],
+    "network": ["Cisco", "HP-Aruba", "3Com", "Alcatel", "Huawei"],
+    "system": ["VMWare", "VirtualBox", "Linux", "Windows", "Windows Server", "Active Directory", "Docker", "Centreon", "EyesOfNetwork", "SolarWinds", "WhatsUp Gold", "Exchange", "Mailcow"],
+    "programming_languages": ["C", "C++", "C arduino", "assembly", "Python", "MySQL", "SQL", "Java", "C#", "JavaScript", "PHP"]
+  },
+  "languages": [
+    {"language": "Français", "level": "natif"},
+    {"language": "Anglais", "level": "B2 (TOEIC 830)"},
+    {"language": "Espagnol", "level": "A2"}
+  ],
+  "hobbies": {
+    "sport": ["natation", "ski", "cyclisme"],
+    "travel": ["Maroc", "Kenya", "États-Unis", "Pérou", "Égypte", "Inde et de nombreux pays d'Europe"]
+  },
+  "professional_experience": [
+    {
+      "title": "APPRENTI INGENIEUR RESEAUX ET SECURITE",
+      "company": "Axians",
+      "years": "2022-2025",
+      "location": "Venissieux (France)",
+      "details": ["Fortinet, Cisco, HP-Aruba, 3Com, Alcatel, Huawei.", "Sécurité, LAN et sans fil.", "Audit, mise en situation et étude des infrastructures.", "Intervention sur les équipements informatiques chez le client.", "Réalisation d'astreintes"]
+    },
+    {
+      "title": "STAGE EN DÉVELOPPEMENT WEB ET ANALYSE DE DONNÉES",
+      "company": "Data4You z.s",
+      "years": "2024",
+      "location": "Prague (République tchèque)",
+      "details": ["HTML, CSS, SCSS, JS, Node.js, Ajax, React, Laravel, Docker", "Audit de code", "Participation au développement de Naxos (naxos.cz) un site d'enchères (Automatisation des tests avec Laravel), au développement de Dolbite (dolbite.com) un site d'apprentissage (Visualisation des données, vue admin)", "Création d'un générateur de certificats"]
+    },
+    {
+      "title": "STAGE DE RECHERCHE",
+      "company": "École des Mines de Saint-Étienne",
+      "years": "2024",
+      "location": "Saint-Etienne (France)",
+      "details": ["LIMOS UMR CNRS 6158 - Institut FAYOL - Informatique et systèmes intelligents", "Projet ANR ACCELER-AI :", "Recherche documentaire sur les systèmes multi-agents", "Comportement des voyageurs développé pour simulateur multimodal en Java"]
+    },
+    {
+      "title": "STAGE TECHNICIEN INFORMATIQUE",
+      "company": "Ville de Dardilly",
+      "years": "2022",
+      "location": "Dardilly (France)",
+      "details": ["Cybersécurité: WatchGuard (gestion de pare-feu, EDR), campagne de phishing.", "Réseau: dépannage réseau, TLS, serveur FTP, VLAN, EyesOfNetwork", "Système: Active Directory, Exchange, Veeam, VMware."]
+    }
+  ],
+  "education": [
+    {
+      "school": "CESI ECOLE D'INGENIEUR",
+      "degree": "Spécialité Informatique, Elective Systèmes & Réseaux, Option Cybersécurité",
+      "years": "2020-2025",
+      "highlights": ["Équipe gagnante du CTF Cesiak2025"]
+    },
+    {
+      "school": "LYCÉE CHEVREUL LESTONNAC",
+      "degree": "Baccalauréat Scientifique avec mention, Spécialité Mathématiques",
+      "years": "2017-2020",
+      "highlights": []
+    }
+  ]
+}
