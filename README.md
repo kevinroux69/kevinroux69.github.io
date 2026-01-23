@@ -1,43 +1,39 @@
-# Kevin Roux Portfolio
+# Kevin Roux - Professional Portfolio
 
-This is the my portfolio website, showcasing my skills, experience, and projects in the field of Cybersecurity, Systems, and Network Engineering.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Roux-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kévin-roux-49284821a)
+[![Portfolio](https://img.shields.io/badge/Live_Demo-View_Site-green?style=flat)](https://kevinroux69.github.io/)
 
-## Project Structure
+A professional, multilingual portfolio showcasing my journey as a **Cybersecurity, Systems, and Network Engineer**. Built with modern web technologies, this project demonstrates my ability to bridge the gap between infrastructure security and software development.
 
-The project is structured as follows:
+## 🚀 Technologies Used
 
-```
+* **React** (Functional Components, Hooks)
+* **TypeScript** (Type safety and better developer experience)
+* **Vite** (Next-generation frontend tooling)
+* **Context API** (State management for internationalization)
+* **GitHub Pages** (Deployment and hosting)
+
+## 🌍 Key Features
+
+* **Multilingual Support:** Full site toggle between English and French.
+* **Dynamic Data:** Content is driven by structured JSON files for easy updates.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing.
+* **PDF Integration:** Dynamic CV download links that match the currently selected language.
+
+## 📂 Project Structure
+
 kevinroux69.github.io
-├── src
-│   ├── main.tsx          # Entry point of the React application
-│   ├── App.tsx           # Main application component with routing
-│   ├── index.css         # Global CSS styles
-│   ├── pages             # Contains different page components
-│   │   ├── Home.tsx      # Home page component
-│   │   ├── CV.tsx        # CV page component displaying detailed CV
-│   │   └── Projects.tsx   # Projects page component
-│   ├── components        # Reusable components
-│   │   ├── Header.tsx    # Header component with navigation
-│   │   ├── Footer.tsx    # Footer component with copyright info
-│   │   ├── LanguageToggle.tsx # Component for switching languages
-│   │   ├── ContactCard.tsx # Component displaying contact information
-│   │   └── ExperienceList.tsx # Component listing professional experiences
-│   ├── hooks             # Custom hooks
-│   │   └── useLocale.ts  # Hook for managing language state
-│   ├── utils             # Utility functions
-│   │   └── i18n.ts       # Internationalization utilities
-│   └── data              # Data files
-│       ├── json          # JSON files for CV data
-│       │   ├── EN.json   # English CV data
-│       │   └── FR.json   # French CV data
-│       └── pdf           # PDF versions of the CV
-│           ├── cv-en.pdf # English CV PDF
-│           └── cv-fr.pdf # French CV PDF
-├── public
-│   └── robots.txt        # Robots.txt for search engine indexing
-├── index.html            # Main HTML file for the React app
-├── package.json          # NPM configuration file
-├── tsconfig.json         # TypeScript configuration file
-├── vite.config.ts        # Vite configuration file
-└── README.md             # Project documentation
-```
+├── src/
+│   ├── components/       # Reusable UI components (Experience, Toggle, etc.)
+│   ├── context/          # LocaleContext for language state management
+│   ├── data/
+│   │   └── json/         # English (EN.json) and French (FR.json) content
+│   ├── hooks/            # Custom hooks (useLocale)
+│   ├── pages/            # Page-level components (Home, Projects, etc.)
+│   └── App.tsx           # Main logic and routing
+├── public/               # Static assets (Not processed by Vite)
+│   └── data/
+│       ├── pdf/          # CV files for direct download
+│       └── Photo_Kévin_Roux.jpg
+├── vite.config.ts        # Build configuration with relative base paths
+└── package.json          # Dependencies and scripts
