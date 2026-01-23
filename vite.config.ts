@@ -10,5 +10,5 @@ export default defineConfig({
   build: {
     outDir: 'dist',
   },
-  base: '/kevinroux69.github.io/',
+  base: './',
 });
