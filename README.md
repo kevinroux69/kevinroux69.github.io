@@ -22,6 +22,7 @@ A professional, multilingual portfolio showcasing my journey as a **Cybersecurit
 
 ## 📂 Project Structure
 
+```text
 kevinroux69.github.io
 ├── src/
 │   ├── components/       # Reusable UI components (Experience, Toggle, etc.)
